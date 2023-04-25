@@ -25,5 +25,7 @@ WebUI.delay(1)
 
 WebUI.setText(findTestObject('chrome_textarea_search'), search)
 
+println("Search :: " + search)
+
 WebUI.sendKeys(findTestObject('chrome_textarea_search'), Keys.chord(Keys.ENTER))
 

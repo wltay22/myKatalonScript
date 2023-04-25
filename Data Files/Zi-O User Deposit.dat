@@ -6,9 +6,15 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>ab6e8fe6-4cc8-45c5-a1f1-48048853bfee</dataFileGUID>
-   <dataSourceUrl>../../../../Files/Ri-O_user_login.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Files\Ri-O_user_login.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>true</isInternalPath>
+   <isInternalPath>false</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>

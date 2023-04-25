@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>warning_remarkRequired</name>
+   <tag></tag>
+   <elementGuidId>b509c1c0-a13d-4917-97ec-a5f6c59b8094</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(contains(text(), 'Remark is required') or contains(., 'Remark is required')) and @class = 'el-form-item__error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>124ea67f-a994-47d7-9ff8-9da5fb2071ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remark is required</value>
+      <webElementGuid>c4f2d709-9b59-420a-9292-311b85b2bd13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-form-item__error</value>
+      <webElementGuid>10e3c7cf-b1a4-4c0a-b319-cc6676541ea1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

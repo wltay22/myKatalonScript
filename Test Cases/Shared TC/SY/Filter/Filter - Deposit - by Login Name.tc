@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter - Deposit - by Login Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>813028a4-f94e-4bfb-b14f-053ba5c6a1c8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ddf5076f-8dd7-48e8-a9e4-59d712d0c0a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddf5076f-8dd7-48e8-a9e4-59d712d0c0a0</id>
+      <masked>false</masked>
+      <name>userLogin</name>
+   </variable>
+</TestCaseEntity>

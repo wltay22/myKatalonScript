@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>message_updateDepositDone</name>
+   <tag></tag>
+   <elementGuidId>02ea4c1c-406f-4846-8442-4a6d48c02f6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'update' and (text() = 'Update Successfully' or . = 'Update Successfully')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f51cf7ff-c249-4afc-ac3d-475f7b6de037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>update</value>
+      <webElementGuid>16a64335-2895-49d4-a099-823830057ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Successfully</value>
+      <webElementGuid>031ac14c-c4e5-4341-9f79-264f8600f2f4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

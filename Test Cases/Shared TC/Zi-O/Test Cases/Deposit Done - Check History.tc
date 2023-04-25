@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User back to Zi-O and verify the amount</description>
+   <name>Deposit Done - Check History</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70b5e371-bd0b-4e5e-9ff1-37ada742f4fb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>643e70e7-3ec9-4d5a-80f3-c2e09a125b4b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32c25748-fad5-4699-ae00-a93f296008ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36e02883-3752-4628-bb5a-288068a78a9a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>643e70e7-3ec9-4d5a-80f3-c2e09a125b4b</id>
+      <masked>false</masked>
+      <name>userLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32c25748-fad5-4699-ae00-a93f296008ee</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36e02883-3752-4628-bb5a-288068a78a9a</id>
+      <masked>false</masked>
+      <name>afterDepositAmount</name>
+   </variable>
+</TestCaseEntity>

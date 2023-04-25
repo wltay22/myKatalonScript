@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter - Pending Deposit - by Login Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9022814-d45b-44e9-b1cb-1276d1a13f23</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3cf2c76f-543a-4277-baa0-4044f68c2c0c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3cf2c76f-543a-4277-baa0-4044f68c2c0c</id>
+      <masked>false</masked>
+      <name>userLogin</name>
+   </variable>
+</TestCaseEntity>

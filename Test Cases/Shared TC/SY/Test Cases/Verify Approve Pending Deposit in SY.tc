@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verification on the Pending Deposit page</description>
+   <name>Verify Approve Pending Deposit in SY</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a83fb9ae-c71e-4bf1-a1df-dc5e00f6ee2c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f113fdca-48c2-4ac0-a225-ec1cfc54572e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4db331dc-080f-4684-8813-c26cb42052d2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95f724d0-1496-4a9d-acc8-c45113f05ca8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>698e7499-d97b-45d4-9037-0f26604e797f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f113fdca-48c2-4ac0-a225-ec1cfc54572e</id>
+      <masked>false</masked>
+      <name>syLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4db331dc-080f-4684-8813-c26cb42052d2</id>
+      <masked>false</masked>
+      <name>syPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95f724d0-1496-4a9d-acc8-c45113f05ca8</id>
+      <masked>false</masked>
+      <name>userLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>698e7499-d97b-45d4-9037-0f26604e797f</id>
+      <masked>false</masked>
+      <name>initialAmount</name>
+   </variable>
+</TestCaseEntity>

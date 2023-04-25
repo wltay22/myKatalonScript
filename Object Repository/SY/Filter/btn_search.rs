@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_search</name>
+   <tag></tag>
+   <elementGuidId>7cf2300b-4d71-47b2-aadd-91b39a355902</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type = 'button']//img[@class = 'icon' and contains(@src, '/static/img/search')])[6]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@class = 'icon' and contains(@src, '/static/img/search')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7ecc2ca8-e8b7-4c75-bcff-d44d5926daf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>6203ab0f-e140-4de1-82d9-c348bafd8160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/img/search</value>
+      <webElementGuid>3a3cf4ce-a4e2-4e8b-baaa-12dc8e741835</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

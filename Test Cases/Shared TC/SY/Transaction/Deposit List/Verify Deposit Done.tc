@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Deposit Done</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c373b5e6-d9ee-4d5d-8bee-7a92fef0c593</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd4e73cf-9c87-457f-bd22-667e348cbf4c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd4e73cf-9c87-457f-bd22-667e348cbf4c</id>
+      <masked>false</masked>
+      <name>initialAmount</name>
+   </variable>
+</TestCaseEntity>

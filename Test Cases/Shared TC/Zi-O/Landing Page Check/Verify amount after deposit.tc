@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify amount after deposit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2309cf2-232c-46a0-abce-2a9e602f43ea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28306a7a-c56d-4dcb-b55a-49a40fb7bdc5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28306a7a-c56d-4dcb-b55a-49a40fb7bdc5</id>
+      <masked>false</masked>
+      <name>afterDepositAmount</name>
+   </variable>
+</TestCaseEntity>

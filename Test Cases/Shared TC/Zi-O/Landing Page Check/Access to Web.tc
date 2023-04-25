@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User access to Zi-O</description>
+   <name>Access to Web</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2139d5c-4d34-42cf-b025-e626029f96a2</testCaseGuid>
+</TestCaseEntity>

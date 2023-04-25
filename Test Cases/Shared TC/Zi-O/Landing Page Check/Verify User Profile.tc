@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify User Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ef78e3b-a0d1-4bbd-b93e-0e78ebb12bac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c93814fd-f48f-4e40-8776-a973ae1cc393</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7dcd213c-1afb-437f-a742-b3ca3bdb0971</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c93814fd-f48f-4e40-8776-a973ae1cc393</id>
+      <masked>false</masked>
+      <name>userLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7dcd213c-1afb-437f-a742-b3ca3bdb0971</id>
+      <masked>false</masked>
+      <name>initialAmount</name>
+   </variable>
+</TestCaseEntity>

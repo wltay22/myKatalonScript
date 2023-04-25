@@ -27,5 +27,9 @@ WebUI.setText(findTestObject('chrome_textarea_search'), search)
 
 println("Search :: " + search)
 
+GlobalVariable.search = search
+
+println("GlobalVariable.search :: " + GlobalVariable.search)
+
 WebUI.sendKeys(findTestObject('chrome_textarea_search'), Keys.chord(Keys.ENTER))
 

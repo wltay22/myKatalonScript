@@ -44,4 +44,9 @@
       <initValue>'D2023041915305300058'</initValue>
       <name>TrxIDNo</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>search</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

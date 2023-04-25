@@ -18,40 +18,40 @@
       <testCaseId>Test Cases/Shared TC/Zi-O/Test Cases/User Place Deposit</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>e16ef311-f639-4564-b5d3-ad5a798f8549</id>
+         <id>e8f933d4-c98b-4c0b-9913-4162527be4a0</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Zi-O User Deposit</testDataId>
+         <testDataId>Data Files/Internal Data</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>e16ef311-f639-4564-b5d3-ad5a798f8549</testDataLinkId>
+         <testDataLinkId>e8f933d4-c98b-4c0b-9913-4162527be4a0</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>userLogin</value>
          <variableId>fd504c80-523c-4e6e-9820-f5601e032dda</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>e16ef311-f639-4564-b5d3-ad5a798f8549</testDataLinkId>
+         <testDataLinkId>e8f933d4-c98b-4c0b-9913-4162527be4a0</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password</value>
          <variableId>53801c4e-ba2d-41df-a491-e693937acb31</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>e16ef311-f639-4564-b5d3-ad5a798f8549</testDataLinkId>
+         <testDataLinkId>e8f933d4-c98b-4c0b-9913-4162527be4a0</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>initialAmount</value>
          <variableId>ba374a29-c538-4734-8cb3-5d5acafaa1e6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>e16ef311-f639-4564-b5d3-ad5a798f8549</testDataLinkId>
+         <testDataLinkId>e8f933d4-c98b-4c0b-9913-4162527be4a0</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>syLogin</value>
          <variableId>94eb1a24-7863-4e26-8ba4-2738c150c1e5</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>e16ef311-f639-4564-b5d3-ad5a798f8549</testDataLinkId>
+         <testDataLinkId>e8f933d4-c98b-4c0b-9913-4162527be4a0</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>syPassword</value>
          <variableId>63edd409-cf5f-4af6-b1a8-f2ca794cb2f0</variableId>
@@ -64,34 +64,34 @@
       <testCaseId>Test Cases/Shared TC/SY/Test Cases/Verify Deposit in SY</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>5dae6727-bcf4-43d4-a658-744afd866e26</id>
+         <id>2ce19f1a-b0db-4bf3-bb61-15dfa2f55c57</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Zi-O User Deposit</testDataId>
+         <testDataId>Data Files/Internal Data</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>5dae6727-bcf4-43d4-a658-744afd866e26</testDataLinkId>
+         <testDataLinkId>2ce19f1a-b0db-4bf3-bb61-15dfa2f55c57</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>syLogin</value>
          <variableId>54af876c-d2f9-4627-9bc8-5571c105627a</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5dae6727-bcf4-43d4-a658-744afd866e26</testDataLinkId>
+         <testDataLinkId>2ce19f1a-b0db-4bf3-bb61-15dfa2f55c57</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>syPassword</value>
          <variableId>5b29f07a-e141-4aa2-b08c-a7f1578d4183</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5dae6727-bcf4-43d4-a658-744afd866e26</testDataLinkId>
+         <testDataLinkId>2ce19f1a-b0db-4bf3-bb61-15dfa2f55c57</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>userLogin</value>
          <variableId>d057c17f-c3b7-481e-8eb2-7f83a92ff42a</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5dae6727-bcf4-43d4-a658-744afd866e26</testDataLinkId>
+         <testDataLinkId>2ce19f1a-b0db-4bf3-bb61-15dfa2f55c57</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>initialAmount</value>
          <variableId>a14f2188-276f-4c9a-888f-a0574dad7ee1</variableId>
@@ -104,28 +104,28 @@
       <testCaseId>Test Cases/Shared TC/Zi-O/Test Cases/Deposit Done - Check History</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>05119d5d-9ef9-4fba-831e-8de6baf0b96a</id>
+         <id>ee9e1a39-fede-49ab-b11c-bb2173ff19c7</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Zi-O User Deposit</testDataId>
+         <testDataId>Data Files/Internal Data</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>05119d5d-9ef9-4fba-831e-8de6baf0b96a</testDataLinkId>
+         <testDataLinkId>ee9e1a39-fede-49ab-b11c-bb2173ff19c7</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>userLogin</value>
          <variableId>643e70e7-3ec9-4d5a-80f3-c2e09a125b4b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>05119d5d-9ef9-4fba-831e-8de6baf0b96a</testDataLinkId>
+         <testDataLinkId>ee9e1a39-fede-49ab-b11c-bb2173ff19c7</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password</value>
          <variableId>32c25748-fad5-4699-ae00-a93f296008ee</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>05119d5d-9ef9-4fba-831e-8de6baf0b96a</testDataLinkId>
+         <testDataLinkId>ee9e1a39-fede-49ab-b11c-bb2173ff19c7</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>afterDepositAmount</value>
          <variableId>36e02883-3752-4628-bb5a-288068a78a9a</variableId>

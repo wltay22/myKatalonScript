@@ -19,22 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'mcit.com.highlight.HighlightElement.highlight'()
 
-'User access to Zi-O'
-WebUI.callTestCase(findTestCase('Shared TC/Zi-O/Landing Page Check/Access to Web'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser(GlobalVariable.url2)
 
-'User login in the Zi-O page'
-WebUI.callTestCase(findTestCase('Shared TC/Zi-O/Landing Page Check/User Login'), [('password') : password, ('userLogin') : userLogin], 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForPageLoad(10)
 
-'Verification the user name and amount'
-WebUI.callTestCase(findTestCase('Shared TC/Zi-O/Landing Page Check/Verify User Profile'), [('userLogin') : userLogin, ('initialAmount') : initialAmount], 
-    FailureHandling.STOP_ON_FAILURE)
-
-'User make deposit in Zi-O'
-WebUI.callTestCase(findTestCase('Shared TC/Zi-O/Transaction/Make Deposit/Make Deposit'), [:], FailureHandling.STOP_ON_FAILURE)
-
-'Verification on the History page - Deposit status Pending'
-WebUI.callTestCase(findTestCase('Shared TC/Zi-O/Transaction/History/Verify Pending Deposit'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.closeBrowser()
-
+WebUI.verifyElementPresent(findTestObject('Zi-O/MainPage/btn_createAccount'), 2)

@@ -49,4 +49,9 @@
       <initValue>''</initValue>
       <name>search</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'site.gigas8.com'</initValue>
+      <name>url2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

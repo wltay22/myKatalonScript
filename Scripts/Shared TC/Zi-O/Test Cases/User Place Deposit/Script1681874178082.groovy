@@ -38,3 +38,4 @@ WebUI.callTestCase(findTestCase('Shared TC/Zi-O/Transaction/History/Verify Pendi
 
 WebUI.closeBrowser()
 
+git stat

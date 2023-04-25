@@ -5,14 +5,19 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description></description>
-      <initValue>'http://68.183.178.252:8005'</initValue>
+      <description>Staging Internal: http://68.183.178.252:8005</description>
+      <initValue>'https://stage-t5.thomasmov.xyz/'</initValue>
       <name>ZiO</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
-      <initValue>'http://68.183.178.252:8088'</initValue>
+      <description>Staging Internal: http://68.183.178.252:8088</description>
+      <initValue>'https://bo-stage.thomasmov.xyz'</initValue>
       <name>SY</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'site.gigas8.com'</initValue>
+      <name>PRODUCTION</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
@@ -48,10 +53,5 @@
       <description></description>
       <initValue>''</initValue>
       <name>search</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'site.gigas8.com'</initValue>
-      <name>url2</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

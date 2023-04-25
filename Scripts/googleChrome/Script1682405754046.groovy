@@ -23,7 +23,7 @@ WebUI.waitForPageLoad(5)
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('chrome_textarea_search'), 'Katalon World')
+WebUI.setText(findTestObject('chrome_textarea_search'), search)
 
 WebUI.sendKeys(findTestObject('chrome_textarea_search'), Keys.chord(Keys.ENTER))
 

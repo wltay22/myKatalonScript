@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chrome_textarea_search</name>
+   <tag></tag>
+   <elementGuidId>ecbd5953-e94f-4d52-b96d-fe1a8ac9c5fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@class = 'gLFyf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>bda176b3-a7ee-44f0-a466-822dd84c31fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gLFyf</value>
+      <webElementGuid>bfec018d-9bcc-4ed1-a6a3-45ae3bcfb470</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

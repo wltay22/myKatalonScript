@@ -92,5 +92,5 @@ WebUI.click(findTestObject('Object Repository/Zi-O/Transaction/Make Deposit/btn_
 
 WebUI.verifyElementPresent(findTestObject('Zi-O/Transaction/Make Deposit/message_successfullySubmitted'), 2)
 
-WebUI.delay(3)
+WebUI.delay(30)
 

@@ -31,5 +31,3 @@ WebUI.verifyElementPresent(findTestObject('Zi-O/MainPage/btn_createAccount'), 2)
 
 WebUI.verifyElementPresent(findTestObject('Zi-O/MainPage/btn_login'), 2)
 
-WebUI.callTestCase(findTestCase('Shared TC/Zi-O/Landing Page Check/Check Spin'), [:], FailureHandling.STOP_ON_FAILURE)
-

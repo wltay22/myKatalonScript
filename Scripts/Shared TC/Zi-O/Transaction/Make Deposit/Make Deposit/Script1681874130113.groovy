@@ -28,6 +28,10 @@ import org.openqa.selenium.Keys as Keys
  *    - the "Others amount"
  * 3) upload receipt, verify the receipt is uploaded successfully
  */
+
+String userDir = System.getProperty("user.dir")
+String receiptPath = userDir + "UploadFiles/receipt.png"
+
 WebUI.click(findTestObject('Object Repository/Zi-O/Transaction/Make Deposit/btn_deposit'))
 
 WebUI.delay(1)
@@ -73,7 +77,8 @@ WebUI.verifyMatch(otherAmount, GlobalVariable.reloadAmount, false)
 
 WebUI.delay(1)
 
-WebUI.uploadFile(findTestObject('Zi-O/Transaction/Make Deposit/uploadReceipt'), GlobalVariable.receiptPath)
+//WebUI.uploadFile(findTestObject('Zi-O/Transaction/Make Deposit/uploadReceipt'), GlobalVariable.receiptPath)
+WebUI.uploadFile(findTestObject('Zi-O/Transaction/Make Deposit/uploadReceipt'), receiptPath)
 
 WebUI.delay(1)
 

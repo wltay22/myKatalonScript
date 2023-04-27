@@ -6,6 +6,10 @@
    <elementGuidId>5ae7093b-fc54-4e0b-bafc-7287d11f029e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//div[(contains(text(), 'LOGIN') or contains(., 'LOGIN')) and contains(@class, 'btn login')]</value>
       </entry>
@@ -18,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fd73ac6c-7bad-4a6f-8153-dd3e3541000f</webElementGuid>
+      <webElementGuid>7195ed83-b6e7-4ac4-b970-d77eb5981e5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LOGIN</value>
-      <webElementGuid>9aa65597-b8d5-42ac-a7fb-5c5dc4618aa8</webElementGuid>
+      <webElementGuid>c6a351a2-a4b0-4f6c-ae1d-12ef9cde45b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,6 +38,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn login</value>
-      <webElementGuid>c1311078-99e1-4e0e-9f92-b0379257aab7</webElementGuid>
+      <webElementGuid>e51c0f88-e059-4d7e-8797-ad3dee005f23</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

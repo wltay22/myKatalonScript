@@ -30,7 +30,7 @@ import org.openqa.selenium.Keys as Keys
  */
 
 String userDir = System.getProperty("user.dir")
-String receiptPath = userDir + "UploadFiles/receipt.png"
+String receiptPath = userDir + "\\UploadFiles\\receipt.png"
 
 WebUI.click(findTestObject('Object Repository/Zi-O/Transaction/Make Deposit/btn_deposit'))
 

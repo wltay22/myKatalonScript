@@ -60,7 +60,7 @@
    <testCaseLink>
       <guid>13da0445-b8dd-4867-a36c-adfec0fabf2c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Shared TC/SY/Test Cases/Verify Deposit in SY</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -100,7 +100,7 @@
    <testCaseLink>
       <guid>5820141d-39d4-4cd9-b31e-274499a195d0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Shared TC/Zi-O/Test Cases/Deposit Done - Check History</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>

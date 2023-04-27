@@ -77,6 +77,8 @@ WebUI.verifyMatch(otherAmount, GlobalVariable.reloadAmount, false)
 
 WebUI.delay(1)
 
+println("receiptPath :: " + receiptPath)
+
 //WebUI.uploadFile(findTestObject('Zi-O/Transaction/Make Deposit/uploadReceipt'), GlobalVariable.receiptPath)
 WebUI.uploadFile(findTestObject('Zi-O/Transaction/Make Deposit/uploadReceipt'), receiptPath)
 
